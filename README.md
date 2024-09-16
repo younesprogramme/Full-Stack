@@ -14,6 +14,10 @@ cd Full-Stack
 ```
 composer install
 ```
+**innstallez Laravel Mix dependences :**
+```
+npm install
+```
 **Modifiez le fichier .env pour configurer la base de données et l'envoi d'emails :**
 ```
 DB_CONNECTION=mysql
