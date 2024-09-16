@@ -35,3 +35,8 @@ MAIL_ENCRYPTION=tls
 ```
 php artisan key:generate
 ```
+**Lancez le serveur de développement :**
+```
+php artisan serve
+npm run dev
+```
